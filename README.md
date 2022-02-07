@@ -3,9 +3,9 @@
 
 ## رابـط السـورس للتنـصيـب
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CJIJI/jmthon)
-
+[![Deploy](
 ## شكـرا لكـم 
+https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tnnii/jmthon)
 
 
 ## المطـورين 
